@@ -14,7 +14,7 @@ TestEP.java
 * `Window.alert("Hello world")`是在运行界面时弹出一个对话框。
 * TestEP.java中的代码可以转换为javascript。
 
-.settings
+settings
 -----
 * settings文件夹中文件是eclipse的设置的相关文件。
 
